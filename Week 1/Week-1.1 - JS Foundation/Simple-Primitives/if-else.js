@@ -10,6 +10,7 @@ if(isMarried == true){
     console.log(username+" is not married");
 }
 
+
 /*
     Ternary Operator
     condition ? trueExpression : falseExpression
